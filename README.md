@@ -2,11 +2,12 @@
 
 Welcome to my GitHub profile! 🌟
 
+<!--
 Leetcode Statistics:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rajivadak26)
 
-<!--
+
 **rajivadak/rajivadak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
