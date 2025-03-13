@@ -2,11 +2,32 @@
 
 Welcome to my GitHub profile! 🌟
 
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/rajiv-adak-9b7557137)
+
+
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,rust)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,vscode)
+
+
+
+
+
+
+
 <!--
-Leetcode Statistics:
+##Leetcode Statistics:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rajivadak26)
 
+## GitHub Stats
+![Rajiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajivadak&show_icons=true&theme=cobalt)
 
 **rajivadak/rajivadak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
